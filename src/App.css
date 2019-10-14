@@ -8,25 +8,4 @@
     grid-template-rows: 60px 1fr;
     grid-template-columns: 2fr 10fr;
 }
-.header {
-    grid-area: h;
-    background: #2aabe4;
-}
-.header img {
-    width: 20px;
-}
-
-.nav {
-    grid-area: n;
-    background: #9dc8e4;
-}
-
-.content {
-    grid-area: c;
-    background: #666b6e;
-}
-.content img {
-    width: 100%;
-    height: 30%;
-}
 
